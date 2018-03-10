@@ -8,4 +8,6 @@ Cheat sheet for nano bindings
 
 -Ctrl+w : look for a certain string
 
--Ctrl+a : 
+-Ctrl+a : go to the start of a line
+
+-Ctrl+e: go to the end of a line
