@@ -26,3 +26,15 @@ Notable differences in hard vs. soft wrap
 
 -Hard wrap inserts actual line breaks and keeps line breaks after exiting editor
 -Soft wrap doesnt keep the wrap when submitted in form
+
+Options for Nano
+
+-$ : Open nano with softwrap 
+
+-i : Opens with autoindenting (good for sourcecode)
+
+-W : Treats punctuation characters as part of a word
+
+-w : enables nowrap (conflicts with -r)
+
+-S : smooth scrolling (line by line instead of chunks)
