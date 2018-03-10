@@ -1,3 +1,11 @@
 Cheat sheet for nano bindings
 
 -Ctrl+x : exit nano
+
+-Ctrl+o : Save file
+
+-Ctrl+g : list all commands
+
+-Ctrl+w : look for a certain string
+
+-Ctrl+a : 
