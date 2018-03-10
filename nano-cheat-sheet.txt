@@ -10,4 +10,13 @@ Cheat sheet for nano bindings
 
 -Ctrl+a : go to the start of a line
 
--Ctrl+e: go to the end of a line
+-Ctrl+e : go to the end of a line
+
+-Esc $ : Soft wrapping of overlong lines
+
+-Esc l : Hard wrapping of overlong lines
+
+Notable differences in hard vs. soft wrap
+
+-Hard wrap inserts actual line breaks and keeps line breaks after exiting editor
+-Soft wrap doesnt keep the wrap when submitted in form
