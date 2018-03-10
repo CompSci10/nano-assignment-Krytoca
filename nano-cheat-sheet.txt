@@ -16,6 +16,12 @@ Cheat sheet for nano bindings
 
 -Esc l : Hard wrapping of overlong lines
 
+-Ctrl+k : cut a line, makes for faster editing
+
+-Ctrl+t : spellchecker
+
+Esc } : indent
+
 Notable differences in hard vs. soft wrap
 
 -Hard wrap inserts actual line breaks and keeps line breaks after exiting editor
